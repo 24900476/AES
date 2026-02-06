@@ -33,5 +33,5 @@ return 0;
 
 
 # RESULT:
-
+  Thus the program is successfully executed.
 
